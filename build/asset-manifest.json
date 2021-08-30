@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Harry-Potter-Api-ReactJs/static/css/main.4a3f9d97.chunk.css",
-    "main.js": "/Harry-Potter-Api-ReactJs/static/js/main.1b2fd6e8.chunk.js",
-    "main.js.map": "/Harry-Potter-Api-ReactJs/static/js/main.1b2fd6e8.chunk.js.map",
-    "runtime-main.js": "/Harry-Potter-Api-ReactJs/static/js/runtime-main.b45685ec.js",
-    "runtime-main.js.map": "/Harry-Potter-Api-ReactJs/static/js/runtime-main.b45685ec.js.map",
-    "static/js/2.bbb1ccbe.chunk.js": "/Harry-Potter-Api-ReactJs/static/js/2.bbb1ccbe.chunk.js",
-    "static/js/2.bbb1ccbe.chunk.js.map": "/Harry-Potter-Api-ReactJs/static/js/2.bbb1ccbe.chunk.js.map",
-    "index.html": "/Harry-Potter-Api-ReactJs/index.html",
-    "static/css/main.4a3f9d97.chunk.css.map": "/Harry-Potter-Api-ReactJs/static/css/main.4a3f9d97.chunk.css.map",
-    "static/js/2.bbb1ccbe.chunk.js.LICENSE.txt": "/Harry-Potter-Api-ReactJs/static/js/2.bbb1ccbe.chunk.js.LICENSE.txt"
+    "main.css": "/harry-potter-api-reactJs/static/css/main.4a3f9d97.chunk.css",
+    "main.js": "/harry-potter-api-reactJs/static/js/main.1b2fd6e8.chunk.js",
+    "main.js.map": "/harry-potter-api-reactJs/static/js/main.1b2fd6e8.chunk.js.map",
+    "runtime-main.js": "/harry-potter-api-reactJs/static/js/runtime-main.c7a86d8b.js",
+    "runtime-main.js.map": "/harry-potter-api-reactJs/static/js/runtime-main.c7a86d8b.js.map",
+    "static/js/2.bbb1ccbe.chunk.js": "/harry-potter-api-reactJs/static/js/2.bbb1ccbe.chunk.js",
+    "static/js/2.bbb1ccbe.chunk.js.map": "/harry-potter-api-reactJs/static/js/2.bbb1ccbe.chunk.js.map",
+    "index.html": "/harry-potter-api-reactJs/index.html",
+    "static/css/main.4a3f9d97.chunk.css.map": "/harry-potter-api-reactJs/static/css/main.4a3f9d97.chunk.css.map",
+    "static/js/2.bbb1ccbe.chunk.js.LICENSE.txt": "/harry-potter-api-reactJs/static/js/2.bbb1ccbe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b45685ec.js",
+    "static/js/runtime-main.c7a86d8b.js",
     "static/js/2.bbb1ccbe.chunk.js",
     "static/css/main.4a3f9d97.chunk.css",
     "static/js/main.1b2fd6e8.chunk.js"
